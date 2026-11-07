@@ -1,4 +1,4 @@
-![Sergei Grishutov - Quantity Surveyor & CAD Drafter](images/banner.png)
+![Sergei Grishutov - Quantity Surveyor & CAD Drafter](banner.png)
 
 Quantity surveyor with 11+ years in construction. I started as a land surveyor and site engineer (including metro construction) and now measure villas, townhouses and apartment buildings. I turn PDF and DWG drawings into quantities you can check line by line.
 
@@ -16,8 +16,8 @@ Quantity surveyor with 11+ years in construction. I started as a land surveyor a
 ## Work samples
 | | |
 | --- | --- |
-| [![Steel takeoff markup](images/steel_markup.png)](https://github.com/Grishutov/steel-takeoff-tools)<br>**Structural steel takeoff**: colour markup, Excel BoM with weights | [![Painting takeoff markup](images/painting_markup.png)](https://github.com/Grishutov/takeoff-samples)<br>**Painting takeoff**: room by room, walls, ceilings, doors and trims |
-| [![BoQ dimension sheet](images/boq_dimsheet.png)](https://github.com/Grishutov/boq-measurement-template)<br>**BoQ template**: every quantity traced to a measured line | [![Permit sheet](images/permit_sheet.png)](https://github.com/Grishutov/takeoff-samples)<br>**AutoCAD permit sheet**: risers, panel schedule, load calc |
+| [![Steel takeoff markup](steel_markup.png)](https://github.com/Grishutov/steel-takeoff-tools)<br>**Structural steel takeoff**: colour markup, Excel BoM with weights | [![Painting takeoff markup](painting_markup.png)](https://github.com/Grishutov/takeoff-samples)<br>**Painting takeoff**: room by room, walls, ceilings, doors and trims |
+| [![BoQ dimension sheet](boq_dimsheet.png)](https://github.com/Grishutov/boq-measurement-template)<br>**BoQ template**: every quantity traced to a measured line | [![Permit sheet](permit_sheet.png)](https://github.com/Grishutov/takeoff-samples)<br>**AutoCAD permit sheet**: risers, panel schedule, load calc |
 
 All samples use public or fictitious drawings. No client data.
 
