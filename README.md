@@ -7,7 +7,7 @@ Quantity surveyor with 11+ years in construction. I started as a land surveyor a
 ## What I can do for you
 | Service | What you get |
 | --- | --- |
-| **Quantity takeoff & BoQ** | Finishes, concrete, masonry, doors and windows, MEP counts. Excel with a drawing reference on every line, plus a colour PDF markup |
+| **Quantity takeoff & BoQ** | Drywall and ceilings, finishes, concrete, masonry, doors and windows, MEP counts. Excel with a drawing reference on every line, plus a colour PDF markup |
 | **Structural steel takeoff** | Member list by mark, lengths, kg/m and weights, waste allowance, marked-up drawings |
 | **AutoCAD drafting** | Floor plans and site plans, PDF or image to a clean layered DWG, permit sheets |
 | **Civil 3D** | Surfaces, grading, cut and fill volumes |
@@ -17,15 +17,19 @@ Quantity surveyor with 11+ years in construction. I started as a land surveyor a
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/Grishutov/steel-takeoff-tools"><img src="steel_markup.png" alt="Steel takeoff markup"></a><br><b>Structural steel takeoff</b>: colour markup, Excel BoM with weights</td>
-<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples"><img src="painting_markup.png" alt="Painting takeoff markup"></a><br><b>Painting takeoff</b>: room by room, walls, ceilings, doors and trims</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#2-drywall-and-ceiling-takeoff---office-fit-out-us-units"><img src="drywall_markup.png" alt="Drywall takeoff markup"></a><br><b>Drywall and ceilings, US units</b>: partitions by type, GWB, studs, ACT and grid</td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#4-scanned-plan-to-a-clean-dwg"><img src="scan_to_dwg.jpg" alt="Scanned plan and clean DWG"></a><br><b>Scan to clean DWG</b>: layers, door and window blocks, true dimensions</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#3-painting-takeoff---residence-bedroom-wing"><img src="painting_markup.png" alt="Painting takeoff markup"></a><br><b>Painting takeoff</b>: room by room, walls, ceilings, doors and trims</td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/Grishutov/boq-measurement-template"><img src="boq_dimsheet.png" alt="Dimension sheet and bill of quantities"></a><br><b>BoQ template</b>: every quantity traced to a measured line</td>
-<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples"><img src="permit_sheet.png" alt="AutoCAD permit sheet"></a><br><b>AutoCAD permit sheet</b>: risers, panel schedule, load calc</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#5-us-residential-permit-sheet"><img src="permit_sheet.png" alt="AutoCAD permit sheet"></a><br><b>AutoCAD permit sheet</b>: risers, panel schedule, load calc</td>
 </tr>
 </table>
 
-All samples use public or fictitious drawings. No client data.
+Client work is under NDA, so the samples use public drawings or sample drawings I prepared. No client data.
 
 ## How I work
 1. **Read the whole set first.** Missing dimensions and conflicts go on a query list before measuring.
