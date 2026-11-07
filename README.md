@@ -14,10 +14,16 @@ Quantity surveyor with 11+ years in construction. I started as a land surveyor a
 | **Automation** | AutoLISP, Excel and Python for repetitive takeoff work |
 
 ## Work samples
-| | |
-| --- | --- |
-| [![Steel takeoff markup](steel_markup.png)](https://github.com/Grishutov/steel-takeoff-tools)<br>**Structural steel takeoff**: colour markup, Excel BoM with weights | [![Painting takeoff markup](painting_markup.png)](https://github.com/Grishutov/takeoff-samples)<br>**Painting takeoff**: room by room, walls, ceilings, doors and trims |
-| [![BoQ dimension sheet](boq_dimsheet.png)](https://github.com/Grishutov/boq-measurement-template)<br>**BoQ template**: every quantity traced to a measured line | [![Permit sheet](permit_sheet.png)](https://github.com/Grishutov/takeoff-samples)<br>**AutoCAD permit sheet**: risers, panel schedule, load calc |
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Grishutov/steel-takeoff-tools"><img src="steel_markup.png" alt="Steel takeoff markup"></a><br><b>Structural steel takeoff</b>: colour markup, Excel BoM with weights</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples"><img src="painting_markup.png" alt="Painting takeoff markup"></a><br><b>Painting takeoff</b>: room by room, walls, ceilings, doors and trims</td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Grishutov/boq-measurement-template"><img src="boq_dimsheet.png" alt="Dimension sheet and bill of quantities"></a><br><b>BoQ template</b>: every quantity traced to a measured line</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples"><img src="permit_sheet.png" alt="AutoCAD permit sheet"></a><br><b>AutoCAD permit sheet</b>: risers, panel schedule, load calc</td>
+</tr>
+</table>
 
 All samples use public or fictitious drawings. No client data.
 
@@ -26,6 +32,16 @@ All samples use public or fictitious drawings. No client data.
 2. **Measure with a colour markup.** One colour per item, so you can see what is included and what is not.
 3. **Excel with references.** Every line shows the drawing, the location and the dimensions used.
 4. **Check before delivery.** Totals are cross-checked by a second method (for example, room by room against gross area). Assumptions and exclusions are listed.
+
+## Working with me
+| Send me | You get |
+| --- | --- |
+| Drawings: PDF or DWG, the full set if you have it | Excel takeoff, or your own template filled in |
+| Scope: the trades or items to measure | Colour PDF markup of everything measured |
+| Your measuring rules or a sample of your format | Query list with assumptions and exclusions |
+| Deadline and units (metric or imperial) | Totals cross-checked before delivery |
+
+Not sure yet? I can start with one sheet or one trade so you can check the format first.
 
 ## Repositories
 - [steel-takeoff-tools](https://github.com/Grishutov/steel-takeoff-tools): Python tools for steel weights and Excel BoM, with a worked example
