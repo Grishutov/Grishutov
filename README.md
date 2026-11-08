@@ -2,7 +2,7 @@
 
 Quantity surveyor and former head of a construction survey department, 11+ years in construction. For ten years I worked on sites in Moscow: metro and airport tunnels, office buildings, luxury housing and towers up to 50 storeys. Now I measure villas, townhouses and apartment buildings in Cyprus. I turn PDF and DWG drawings and survey data into quantities you can check line by line.
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6d5a39a7c8194e1)
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6d5a39a7c8194e1) [![Portfolio site](https://img.shields.io/badge/Portfolio-grishutov.github.io-16243D?style=for-the-badge)](https://grishutov.github.io)
 
 ## What I can do for you
 | Service | What you get |
@@ -18,15 +18,19 @@ Quantity surveyor and former head of a construction survey department, 11+ years
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#6-drywall-and-ceilings---public-office-fit-out-madison-wi"><img src="dane_markup.png" alt="Drywall takeoff markup on a public bid set"></a><br><b>Drywall and ceilings, real public bid set</b>: 686 LF in 9 types, 8,215 SF of ACT</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#7-earthwork-cut-and-fill---commercial-site-us-units"><img src="earthworks.png" alt="Cut and fill map"></a><br><b>Earthwork cut and fill</b>: survey to volumes, three methods compared</td>
+</tr>
+<tr>
 <td width="50%"><a href="https://github.com/Grishutov/steel-takeoff-tools"><img src="steel_markup.png" alt="Steel takeoff markup"></a><br><b>Structural steel takeoff</b>: colour markup, Excel BoM with weights</td>
-</tr>
-<tr>
 <td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#2-drywall-and-ceiling-takeoff---office-fit-out-us-units"><img src="drywall_markup.png" alt="Drywall takeoff markup"></a><br><b>Drywall and ceilings, US units</b>: partitions by type, GWB, studs, ACT and grid</td>
-<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#4-scanned-plan-to-a-clean-dwg"><img src="scan_to_dwg.jpg" alt="Scanned plan and clean DWG"></a><br><b>Scan to clean DWG</b>: layers, door and window blocks, true dimensions</td>
 </tr>
 <tr>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#4-scanned-plan-to-a-clean-dwg"><img src="scan_to_dwg.jpg" alt="Scanned plan and clean DWG"></a><br><b>Scan to clean DWG</b>: layers, door and window blocks, true dimensions</td>
 <td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#3-painting-takeoff---residence-bedroom-wing"><img src="painting_markup.png" alt="Painting takeoff markup"></a><br><b>Painting takeoff</b>: room by room, walls, ceilings, doors and trims</td>
+</tr>
+<tr>
 <td width="50%"><a href="https://github.com/Grishutov/boq-measurement-template"><img src="boq_dimsheet.png" alt="Dimension sheet and bill of quantities"></a><br><b>BoQ template</b>: every quantity traced to a measured line</td>
+<td width="50%"><a href="https://github.com/Grishutov/takeoff-samples#5-us-residential-permit-sheet"><img src="permit_sheet.png" alt="AutoCAD permit sheet"></a><br><b>AutoCAD permit sheet</b>: risers, panel schedule, load calc</td>
 </tr>
 </table>
 
@@ -55,9 +59,10 @@ Not sure yet? I can start with one sheet or one trade so you can check the forma
 
 ## Repositories
 - [steel-takeoff-tools](https://github.com/Grishutov/steel-takeoff-tools): Python tools for steel weights and Excel BoM, with a worked example
-- [takeoff-samples](https://github.com/Grishutov/takeoff-samples): takeoff and drafting samples (Excel, PDF markups, DWG)
+- [takeoff-samples](https://github.com/Grishutov/takeoff-samples): takeoff, earthworks and drafting samples (Excel, PDF markups, DWG)
 - [boq-measurement-template](https://github.com/Grishutov/boq-measurement-template): Excel dimension sheet → BoQ → summary
 - [autocad-takeoff-lisp](https://github.com/Grishutov/autocad-takeoff-lisp): AutoLISP routines for lengths, areas and quantities by layer
+- [takeoff-checklists](https://github.com/Grishutov/takeoff-checklists): the checklists I follow on every takeoff, trade by trade (drywall, finishes, concrete, steel, doors, earthworks, checking a BoQ)
 - [cad-guides](https://github.com/Grishutov/cad-guides): short practical guides (georeferencing a DWG, PDF to DWG, cut and fill volumes)
 
 ## Tools
