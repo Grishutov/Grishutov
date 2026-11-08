@@ -4,6 +4,8 @@ Quantity surveyor and former head of a construction survey department, 11+ years
 
 [![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6d5a39a7c8194e1) [![Portfolio site](https://img.shields.io/badge/Portfolio-grishutov.github.io-16243D?style=for-the-badge)](https://grishutov.github.io)
 
+**Free tool: [Earthwork Volumes](https://grishutov.github.io/earthwork-volumes/).** Cut and fill from survey points in your browser: composite TIN split exactly at the zero line, a grid check, a cut/fill plan and an Excel report. Your files never leave your computer. [Source and Python version](https://github.com/Grishutov/earthwork-volumes).
+
 ## What I can do for you
 | Service | What you get |
 | --- | --- |
@@ -58,6 +60,7 @@ Not sure yet? I can start with one sheet or one trade so you can check the forma
 - **Education**: mining engineer (NUST MISIS). One-year data analytics program at Yandex Practicum, 2025-2026 (SQL, Python, Excel, BI).
 
 ## Repositories
+- [earthwork-volumes](https://github.com/Grishutov/earthwork-volumes): free cut and fill calculator that runs in the browser, with a Python version and tests
 - [steel-takeoff-tools](https://github.com/Grishutov/steel-takeoff-tools): Python tools for steel weights and Excel BoM, with a worked example
 - [takeoff-samples](https://github.com/Grishutov/takeoff-samples): takeoff, earthworks and drafting samples (Excel, PDF markups, DWG)
 - [boq-measurement-template](https://github.com/Grishutov/boq-measurement-template): Excel dimension sheet → BoQ → summary
